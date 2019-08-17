@@ -4,14 +4,14 @@ Scripts for NumPy Course on Udemy
 Thanks for visiting the repo! These are the scripts which go along with my course on Udemy and YouTube for learning NumPy
 
 ## Topics:
-### Array Creation
+<h3>Array Creation</h3>
 <ul>
   <li>Array method</li>
   <li>Array defaults</li>
   <li>Array vs. python list performance</li>
   <li>Array dimensions</li>
 </ul>
-### Reshaping & Basic Indexing
+<h3>Reshaping & Basic Indexing</h3>
 <ul>
   <li>Review array shape</li>
   <li>Reshape method</li>
@@ -19,35 +19,35 @@ Thanks for visiting the repo! These are the scripts which go along with my cours
   <li>Indexing Columns</li>
   <li>Indexing specific values</li>
 </ul>
-### Default Arrays
+<h3>Default Arrays</h3>
 <ul>
   <li>Default assigned datatype</li>
   <li>Creating array of all zeros</li>
   <li>Creating array of all 1's</li>
   <li>Creating array of certain numbers</li>
 </ul>
-### Advanced Indexing (Slicing, Boolean)
+<h3>Advanced Indexing (Slicing, Boolean)</h3>
 <ul>
   <li>Basic Indexing Review</li>
   <li>Indexing by Slicing</li>
   <li>Indexing by Boolean</li>
   <li>Mutability review</li>
 </ul>
-### Array Datatypes Deep Dive
+<h3>Array Datatypes Deep Dive</h3>
 <ul>
   <li>Review basic data type assignment</li>
   <li>Python datatypes vs NumPy datatypes</li>
   <li>Available NumPy Datatypes</li>
   <li>Manual Reassignment of data type</li>
 </ul>
-### Array Math
+<h3>Array Math</h3>
 <ul>
   <li>Review Vectorization</li>
   <li>Simple Math</li>
   <li>Advanced Math</li>
   <li>Indexing & Math</li>
 </ul>
-### Broadcasting
+<h3>Broadcasting</h3>
 <ul>
   <li>Review NumPy shapes & math</li>
   <li>Explaination of Broadcasting</li>
