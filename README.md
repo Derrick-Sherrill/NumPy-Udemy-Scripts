@@ -33,13 +33,6 @@ Thanks for visiting the repo! These are the scripts which go along with my cours
   <li>Indexing by Boolean</li>
   <li>Mutability review</li>
 </ul>
-<h3>Array Datatypes Deep Dive</h3>
-<ul>
-  <li>Review basic data type assignment</li>
-  <li>Python datatypes vs NumPy datatypes</li>
-  <li>Available NumPy Datatypes</li>
-  <li>Manual Reassignment of data type</li>
-</ul>
 <h3>Array Math</h3>
 <ul>
   <li>Review Vectorization</li>
